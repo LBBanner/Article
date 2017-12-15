@@ -1,6 +1,7 @@
 
 
-#swift  
+swift  
+=====
 
 **Swift学习集合**
 
@@ -11,8 +12,11 @@
 | 3    | [15DaysofAnimationsinSwift](https://github.com/larrynatalicio/15DaysofAnimationsinSwift) | Swift 3 写的动画|
 | 4    | [LearningRxSwift](https://github.com/pepaslabs/LearningRxSwift) | RxSwift 语法demo |
 | 5    | [SwiftPractice](https://github.com/flywo/SwiftPractice) | Swift 纯代码写的一些小demo |
+| 6    | [Playground](https://github.com/swifter-tips/Playground) | 王巍Swift-tips 第3版对应的Playground代码 |
 
-#iOS设计模式  
+
+iOS设计模式
+=========
 
 | 序号  | 文章地址 | 描述 |
 | :--: | :--: | :-------------------------------------------------------: |
@@ -25,13 +29,15 @@
 
 
 
-#工具
+工具
+===
 
 | 序号  | 文章地址 | 描述 |
 | :--: | :--: | :-------------------------------------------------------: |
 | 1    | [Drafter](https://github.com/L-Zephyr/Drafter) | 一款命令行工具，可以生成对应类的方法调用图、继承关系图，接收老代码、第3方库很实用 |
 
-#其它
+其它
+===
 
 | 序号  | 文章地址 | 描述 |
 | :--: | :--: | :-------------------------------------------------------: |
