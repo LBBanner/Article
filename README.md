@@ -36,6 +36,17 @@ iOS设计模式
 | :--: | :--: | :-------------------------------------------------------: |
 | 1    | [Drafter](https://github.com/L-Zephyr/Drafter) | 一款命令行工具，可以生成对应类的方法调用图、继承关系图，接收老代码、第3方库很实用 |
 
+
+优化
+===
+
+| 序号  | 文章地址 | 描述 |
+| :--: | :--: | :-------------------------------------------------------: |
+| 1    | [BuildTimeAnalyzer](https://github.com/RobertGummesson/BuildTimeAnalyzer-for-Xcode) | 一款mac开源工具，查看方法编译时间的软件，来优化代码 |
+| 2    | [Swift语法对编译速度的影响](https://juejin.im/post/5a42f1156fb9a0452725dbc2)、[Regarding Swift build time optimizations](https://medium.com/@RobertGummesson/regarding-swift-build-time-optimizations-fc92cdd91e31) | 两篇关于swift语法对编译时间影响的文章 |
+
+
+
 其它
 ===
 
