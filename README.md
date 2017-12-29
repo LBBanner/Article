@@ -44,6 +44,10 @@ iOS设计模式
 | :--: | :--: | :-------------------------------------------------------: |
 | 1    | [BuildTimeAnalyzer](https://github.com/RobertGummesson/BuildTimeAnalyzer-for-Xcode) | 一款mac开源工具，查看方法编译时间的软件，来优化代码 |
 | 2    | [Swift语法对编译速度的影响](https://juejin.im/post/5a42f1156fb9a0452725dbc2)、[Regarding Swift build time optimizations](https://medium.com/@RobertGummesson/regarding-swift-build-time-optimizations-fc92cdd91e31) | 两篇关于swift语法对编译时间影响的文章 |
+| 3    | [在iOS App内优雅的动态切换语言](https://www.jianshu.com/p/b4288e5e6e4c) | 在iOS App内优雅的动态切换语言 |
+| 4    | [NSUserDefaults的黑科技](https://www.jianshu.com/p/8cb9661fc9d3) | iOS中NSUserDefaults的黑科技 |
+
+
 
 
 
