@@ -13,6 +13,7 @@ swift
 | 4    | [LearningRxSwift](https://github.com/pepaslabs/LearningRxSwift) | RxSwift 语法demo |
 | 5    | [SwiftPractice](https://github.com/flywo/SwiftPractice) | Swift 纯代码写的一些小demo |
 | 6    | [Playground](https://github.com/swifter-tips/Playground) | 王巍Swift-tips 第3版对应的Playground代码 |
+| 7    | [Alamofire使用系列文章](http://www.hangge.com/blog/cache/detail_970.html) | Swift - HTTP网络操作库Alamofire使用详解 |
 
 
 iOS设计模式
